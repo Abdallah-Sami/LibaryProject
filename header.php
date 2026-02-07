@@ -9,7 +9,7 @@
 <div class="container">
     <header class="main-header no-print">
         <div>
-            <h1>📚 Library Management System</h1>
+            <h1>📚 Libary</h1>
             <p style="font-size: 14px; opacity: 0.9;">Yanbu Industrial College - Main Library</p>
         </div>
         <nav class="main-nav">
