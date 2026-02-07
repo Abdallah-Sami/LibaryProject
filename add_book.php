@@ -6,22 +6,22 @@
     <form action="save_book.php" method="POST" class="form-container">
         <div class="form-group">
             <label for="call_no">📞 Call Number</label>
-            <input type="text" id="call_no" name="call_no" class="form-control" placeholder="e.g., 025.5" required>
+            <input type="text" id="call_no" name="call_no" class="form-control" required>
         </div>
 
         <div class="form-group">
             <label for="cutter_no">✂️ Cutter Number</label>
-            <input type="text" id="cutter_no" name="cutter_no" class="form-control" placeholder="e.g., A123" required>
+            <input type="text" id="cutter_no" name="cutter_no" class="form-control" required>
         </div>
 
         <div class="form-group">
             <label for="accession_no">🔢 Accession Number</label>
-            <input type="text" id="accession_no" name="accession_no" class="form-control" placeholder="e.g., 12345" required>
+            <input type="text" id="accession_no" name="accession_no" class="form-control" required>
         </div>
 
         <div class="form-group">
             <label for="campus">🏫 Campus</label>
-            <input type="text" id="campus" name="campus" class="form-control" placeholder="e.g., Main Campus" required>
+            <input type="text" id="campus" name="campus" class="form-control" required>
         </div>
 
         <div class="action-buttons">

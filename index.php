@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <div class="content">
-    <h2 class="page-title">📚 نظام ملصقات كتب المكتبة</h2>
+    <h2 class="page-title">📚 المكتبة</h2>
 
     <div class="home-grid">
         <a href="add_book.php" class="home-card">
@@ -24,7 +24,7 @@
 
         <a href="print_spine.php" class="home-card">
             <div style="font-size: 48px;">📖</div>
-            <h3>طباعة الكعوب</h3>
+            <h3>طباعة Spines</h3>
             <p>طباعة ملصقات كعب الكتب</p>
         </a>
 
